@@ -1,4 +1,3 @@
 # Saeed
 
-This is Saeed's example project :)
-
+This is an example project :)
